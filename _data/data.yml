@@ -31,7 +31,7 @@ sidebar:
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdf: https://www.jasonanton.com/Jason_Anton-Resume.pdf
 
     languages:
       title: Languages
@@ -194,4 +194,4 @@ skills:
         level: 60%
 
 footer: >
-    
+    &copy; 2024 Stoopid Company. All Rights Reserved.
