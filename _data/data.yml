@@ -8,23 +8,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Jason Anton
+    tagline: Digital Janitor
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-    citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
+    email: jason@stoopid.email
+    phone: +1-717-813-3143
+    timezone: America/New_York # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    citizenship: United States of America
+    website: https://www.jasonanton.com # Include the full website URL, including "http://" or "https://".
+    linkedin: stoopidjson
+    xing: 
+    github: stoopidjson
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -39,230 +39,159 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Baseball
           link:
 
-        - item: Snowboarding
+        - item: Drumming
           link:
 
-        - item: Cooking
+        - item: Improv Comedy
+          link: 
+
+        - item: Video Games
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      Highly accomplished Software Engineer and Solution Architect with over 15 years of experience. Expert in leading teams to develop custom solutions amidst complex technical requirements and business challenges. Proficient in backend dev, operations, frontend, project management, and AI development.
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Chief Technology Officer
+        time: March 2024 - Present
+        company: ConversaDocs, FL
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Leading technical strategy and execution at ConversaDocs.ai.
+      - role: AI and Machine Learning Lead
+        time: April 2024 - October 2024
+        company: Skyward IT Solutions, Rockville, MD
+        details: |
+          Led the transistion of legacy US Center for Medicaid/Medicare Services systems as well as the development of new AI-enabled platforms and systems.
+            - Successfully performed analysis and transition of legacy systems including pivitol vulnerability discoveries and mitigation.
+            - Built robust authentication mechanisms for legacy systems to enhance security within those systems.
+            - Planned and built a robust collaboration platform for CMS data scientists in Kubernetes and JupyterHub.
+            - Planned and implemented robust models-as-a-service arcitecture.
+      - role: Solutions Architect
+        time: December 2022 - April 2024
+        company: Alcor Technical Solutions, Baltimore, MD
+        details: |
+          Spearheaded the tailored creation of CEAMS, replacing a legacy US Center for Medicaid/Medicare Services system. Handled Kubernetes configurations and CI/CD pipelines.
+            - Successfully designed a robust access system for CMS.
+            - Built intricate Kubernetes configurations and CI/CD pipelines.
+            - Worked closely with data analysts to integrate machine learning solutions.
+      - role: Director of Engineering
+        time: October 2021 - December 2022
+        company: OutVoice, LLC, Oakland, CA
+        details: |
+          Led API and microservices development, managed CI/CD pipelines.
+            - Conceptualized and fulfilled the backend scaffold for the company's core product.
+            - Led Kubernetes infrastructure creation in Digital Ocean.
+            - Advocated Terraform usage for infrastructure management.
+      - role: Solutions Architect
+        time: December 2018 - October 2021
+        company: Bellese Technologies, LLC, Owings Mills, MD
+        details: |
+          Designed and built custom software solutions for the US Center for Medicaid/Medicare Services.
+            - Modernized CMS's Medicare payment system from COBOL to Java.
+            - Authored detailed plans for future system modernization.
+            - Architected custom solution for QMARS, improving system performance.
       - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+        time: July 2015 - December 2018
+        company: GDIT, Arlington, VA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Led web development for ENERGYSTAR web applications for the US Department of Energy using Drupal and NodeJS.
+            - Improved energystar.gov by decoupling front and back-end technologies.
+            - Created advanced search engine and location features using NodeJS.
+      - role: Software Engineering Consultant
+        time: September 2014 - July 2015
+        company: Manifest, Washington, DC
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+          Led web development for various marketing projects using Drupal and NodeJS.
+      - role: Lead Engineer
+        time: March 2012 - September 2014
+        company: JSquared Capital, Timonium, MD
+        details: |
+          Led development of custom insurance software and cyber security projects.
+      - role: Secure Software Developer
+        time: April 2010 - March 2012
+        company: Accuvant Technologies, Hanover, MD
+        details: |
+          Developed security applications and web applications.
+      - role: PL/SQL Developer
+        time: December 2007 - April 2010
+        company: Iowa Foundation for Medical Care, Ellicot City, MD
+        details: |
+          Development on Measures Engine data for the US Center for Medicare/Medicaid Services.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here are some of the noteworthy projects I've led or contributed to, involving cutting-edge technologies and addressing complex business challenges.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: ConversaDocs
+        link: "https://conversadocs.ai"
+        tagline: "An AI platform using isoloated secure data sets to provide accurate analysis and more."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Code-AINATOR
+        link: "https://github.com/StoopidCompany/Code-AINATOR"
+        tagline: "An AI tool to perform detailed analysis of code projects to provide detailed documentation automatically."
 
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Below are some of the open source projects I've contributed to, demonstrating my commitment to fostering innovation and collaboration within the development community.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Healthcare Rollcall
+        link: "https://github.com/CodeForBaltimore/Healthcare-Rollcall"
+        tagline: "A system to track the status of healthcare providers during and after a disaster. "
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Bmore-Responsive
+        link: "https://github.com/CodeForBaltimore/Bmore-Responsive"
+        tagline: "An API-driven CRM (Civic Relationship Management) system."
 
 publications:
-    title: Publications
+    title: Publications & Accolades
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Highlighting articles, publications, and recognitions from the industry that showcase my contributions and expertise.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: RealLIST Engineers 2020
+        link: "https://technical.ly/software-development/reallist-engineers-20200-influential-technologists/"
+        authors: Stephen Babcock | Technical.ly
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: New technology keeps Baltimore in touch with seniors through hurricanes, pandemics
+        link: "https://www.baltimoresun.com/2020/08/27/new-technology-keeps-baltimore-in-touch-with-seniors-through-hurricanes-pandemics/"
+        authors: Meredith Cohn  | The Baltimore Sun
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Postman helps Code for Baltimore simplify community-driven API development
+        link: "https://www.postman.com/case-studies/code-for-baltimore/"
+        authors: Postman
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Software Development
+        level: 100%
+
+      - name: Software Solutions Arcitecture Design
+        level: 100%
+
+      - name: ML/AI Operations in Kubernetes
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Project Management
         level: 95%
 
-      - name: Ruby on Rails
+      - name: UI Design & Development
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: ML/AI Model Development
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    &copy; {{ site.time | date: "%Y" }} Stoopid Company. All Rights Reserved.
