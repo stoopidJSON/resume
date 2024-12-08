@@ -194,4 +194,4 @@ skills:
         level: 60%
 
 footer: >
-    &copy; {{ site.time | date: "%Y" }} Stoopid Company. All Rights Reserved.
+    
